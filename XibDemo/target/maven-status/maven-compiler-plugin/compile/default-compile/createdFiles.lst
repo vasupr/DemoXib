@@ -1,0 +1,10 @@
+za\co\agent\demo\entity\Team.class
+za\co\agent\demo\repository\TeamRepository.class
+za\co\agent\demo\Main.class
+za\co\agent\demo\entity\Agent.class
+za\co\agent\demo\entity\AgentInfo.class
+za\co\agent\demo\service\TeamService.class
+za\co\agent\demo\repository\AgentRepository.class
+za\co\agent\demo\service\AgentService.class
+za\co\agent\demo\entity\TeamInfo.class
+za\co\agent\demo\controller\DemoController.class
